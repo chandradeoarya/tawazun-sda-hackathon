@@ -90,14 +90,4 @@ This is a simple Java spring boot application built during SDA hackathon. Projec
 - 
 - 
 - 
-- 
-
-#### Team8
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+-
